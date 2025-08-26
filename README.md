@@ -124,13 +124,30 @@ print(response.json())
 ## 📖 Example Response
 ```json
 {
-  "id": "1",
-  "title": "Naruto",
-  "other_names": ["ナルト"],
-  "genres": ["Action", "Adventure", "Shounen"],
-  "status": "Completed",
-  "synopsis": "A young ninja strives to become the strongest Hokage...",
-  "episodes": 220
+  "success": true,
+  "data": {
+    "id": 583,
+    "title": "Naruto",
+    "image_url": "https://www13.gogoanimes.fi/thumb/Naruto.jpg",
+    "type": "TV",
+    "plot_summary": "Watch full episodes Naruto, download Naruto english subbed, Naruto eng sub, download Naruto eng sub, stream Naruto at 9anime.",
+    "released": "August 22, 2024",
+    "updated": "September 4, 2024",
+    "status": "Completed",
+    "other_names": "Naruto, NARUTO, ナルト",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Martial Arts",
+      "Shounen"
+    ],
+    "synopsis": "Moments before Naruto Uzumaki's birth, a huge demon known as the Nine-Tailed Fox attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the demon's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.In the present, Naruto is a hyperactive and knuckle-headed ninja growing up within Konohagakure. Shunned because of the demon inside him, Naruto struggles to find his place in the village. His one burning desire to become the Hokage and be acknowledged by the villagers who despite him. However, while his goal leads him to unbreakable bonds with lifelong friends, it also lands him in the crosshairs of many deadly foes.[Written by MAL Rewrite]Naruto",
+    "movie_id": "1946",
+    "default_ep": "0",
+    "alias_anime": "naruto",
+    "scraped_at": "2025-08-25T00:38:25.076626"
+  }
 }
 ```
 
