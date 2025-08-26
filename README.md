@@ -126,27 +126,26 @@ print(response.json())
 {
   "success": true,
   "data": {
-    "id": 583,
-    "title": "Naruto",
-    "image_url": "https://www13.gogoanimes.fi/thumb/Naruto.jpg",
+    "id": 1,
+    "title": "0 Years Old Child Starting Dash Story Season 2",
+    "image_url": "https://www13.gogoanimes.fi/thumb/1736762631-6480-146764.jpg",
     "type": "TV",
-    "plot_summary": "Watch full episodes Naruto, download Naruto english subbed, Naruto eng sub, download Naruto eng sub, stream Naruto at 9anime.",
-    "released": "August 22, 2024",
-    "updated": "September 4, 2024",
-    "status": "Completed",
-    "other_names": "Naruto, NARUTO, ナルト",
+    "plot_summary": "Watch full episodes 0 Years Old Child Starting Dash Story Season 2, download 0 Years Old Child Starting Dash Story Season 2 english subbed, 0 Years Old Child Starting Dash Story Season 2 eng sub, download 0 Years Old Child Starting Dash Story Season 2 eng sub, stream 0 Years Old Child Starting Dash Story Season 2 at 9anime.",
+    "released": "January 13, 2025",
+    "updated": "May 6, 2025",
+    "status": "Ongoing",
+    "other_names": "0 Years Old Child Starting Dash Story Season 2, Head Start at Birth Season 2, 0歳児スタートダッシュ物語 シーズン2",
     "genres": [
-      "Action",
       "Adventure",
       "Fantasy",
-      "Martial Arts",
-      "Shounen"
+      "Isekai",
+      "Reincarnation"
     ],
-    "synopsis": "Moments before Naruto Uzumaki's birth, a huge demon known as the Nine-Tailed Fox attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the demon's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.In the present, Naruto is a hyperactive and knuckle-headed ninja growing up within Konohagakure. Shunned because of the demon inside him, Naruto struggles to find his place in the village. His one burning desire to become the Hokage and be acknowledged by the villagers who despite him. However, while his goal leads him to unbreakable bonds with lifelong friends, it also lands him in the crosshairs of many deadly foes.[Written by MAL Rewrite]Naruto",
-    "movie_id": "1946",
+    "synopsis": "Second season of 0-saiji Start Dash Monogatari.0-saiji Start Dash Monogatari Season 2",
+    "movie_id": "1643",
     "default_ep": "0",
-    "alias_anime": "naruto",
-    "scraped_at": "2025-08-25T00:38:25.076626"
+    "alias_anime": "0-years-old-child-starting-dash-story-season-2",
+    "scraped_at": "2025-08-25T00:35:19.301140"
   }
 }
 ```
