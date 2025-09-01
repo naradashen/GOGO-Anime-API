@@ -50,8 +50,6 @@ GET /api/search?q=naruto&field=title&limit=10
 - `q` → Search query *(required)*  
 - `field` → Search field (`title`, `genres`, `other_names`, `synopsis`, `type`, `status`) *(default: title)*  
 - `limit` → Results per page *(default: 50, max: 100)*  
-- `page` → Page number *(default: 1)*  
-
 ---
 
 ### 🔹 Get Anime by Genre
@@ -64,8 +62,6 @@ GET /api/genre?genre=action&limit=10
 **Parameters:**  
 - `genre` → Genre name *(required)*  
 - `limit` → Results per page *(default: 50, max: 100)*  
-- `page` → Page number *(default: 1)*  
-
 ---
 
 ## 🔑 Authentication
