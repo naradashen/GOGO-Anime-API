@@ -40,11 +40,11 @@ GET /api/anime/1
 ---
 
 ### 🔹 Search Anime
-**Path:** `/api/search?q={query}&field={field}&limit={limit}`  
+**Path:** `/api/search?q={query}&field={field}&limit={limit}&page={page}`  
 **Method:** `GET`  
 **Example:**  
 ```http
-GET /api/search?q=naruto&field=title&limit=10
+GET /api/search?q=naruto&field=title&limit=10&page=1
 ```
 **Parameters:**  
 - `q` → Search query *(required)*  
@@ -53,11 +53,11 @@ GET /api/search?q=naruto&field=title&limit=10
 ---
 
 ### 🔹 Get Anime by Genre
-**Path:** `/api/genre?genre={genre}&limit={limit}`  
+**Path:** `/api/genre?genre={genre}&limit={limit}&page={page}`  
 **Method:** `GET`  
 **Example:**  
 ```http
-GET /api/genre?genre=action&limit=10
+GET /api/genre?genre=action&limit=10&page=1
 ```
 **Parameters:**  
 - `genre` → Genre name *(required)*  
